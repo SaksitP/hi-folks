@@ -1,2 +1,2 @@
 # hi-folks
-i wanna try to create website for fun.
+try to use ReactJS to create website.
